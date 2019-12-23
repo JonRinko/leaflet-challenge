@@ -1,6 +1,6 @@
 # Visualizing Earthquake Data with Leaflet
 
-# Make sure to add your apiKey to config.js (hidden file) file for this to work
+### Make sure to add your apiKey to config.js (hidden file) file for this to work
 
 ## Background
 
