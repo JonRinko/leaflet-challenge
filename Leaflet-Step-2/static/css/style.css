@@ -36,6 +36,7 @@ p {
 
 .leaflet-bottom.leaflet-left {
     width: 100%;
+    font-size: 15px;
 }
 
 .leaflet-control-container .leaflet-timeline-controls {
