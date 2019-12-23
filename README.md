@@ -1,4 +1,6 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Visualizing Earthquake Data with Leaflet
+
+# Make sure to add your apiKey to config.js (hidden file) file for this to work
 
 ## Background
 
@@ -17,9 +19,8 @@ This project utilizes both **html** and **Javascript** so be sure to add all the
 <!-- ![2-BasicMap](Images/2-BasicMap.png) -->
 ![basicMap](https://github.com/JonRinko/leaflet-challenge/blob/master/Leaflet-Step-2/Images/2-BasicMap.png)
 
-Your first task is to visualize an earthquake data set.
-
-1. **Get your data set**
+1. **Choose your data set**
+There are many different data set available, but for this task we are using the 7 day data provided [Here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
    <!-- ![3-Data](Images/3-Data.png) -->
    ![3Data](https://github.com/JonRinko/leaflet-challenge/blob/master/Leaflet-Step-2/Images/3-Data.png)
